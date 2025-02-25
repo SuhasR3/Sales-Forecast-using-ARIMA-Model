@@ -43,7 +43,8 @@ temperature-forecasting-arima/
 ├── scripts/               # Python scripts for modular code (if applicable)
 │   └── forecast.py
 ├── README.md              # Project documentation (you're reading it!)
-└── requirements.txt       # List of dependencies
+├── requirements.txt       # List of dependencies
+└── License.txt            # MIT License
 ```
 
 ---

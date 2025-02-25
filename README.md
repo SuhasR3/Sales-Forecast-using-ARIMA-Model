@@ -10,12 +10,6 @@ This project demonstrates the application of the **ARIMA (AutoRegressive Integra
 - Clear communication of technical findings.
 - Development of scalable, reproducible solutions in Python.
 
-- **Proficiency** in **time series analysis**, **statistical modeling**, and **data visualization** using libraries like **Pandas**, **NumPy**, and **Statsmodels**.
-- **Expertise** in identifying patterns such as **trends** and **seasonality** in data.
-- **Skills** in **evaluating** and **tuning** **statistical models** for optimal **performance**.
-- Clear **communication** of **technical findings**.
-- **Development** of **scalable**, **reproducible solutions** in **Python**.
-
 It’s a great example of my analytical mindset and passion for leveraging data to uncover actionable insights—skills I’m excited to bring to a data science or machine learning role!
 
 ---

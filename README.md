@@ -1,10 +1,22 @@
-# Sales Forecasting Forecasting with ARIMA Model in Python
+# Sales Forecasting Forecasting using ARIMA Model in Python
 
 ## Overview
-This project demonstrates the application of the **ARIMA (AutoRegressive Integrated Moving Average)** model to forecast sales trends using time series data. Built in Python, this project showcases my ability to solve real-world problems using data-driven methods, work with time series analysis, statistical modeling, and data visualization while leveraging popular libraries like Pandas, NumPy, and Statsmodels, communicate technical findings clearly, and build scalable, reproducible solutions in Python.
+This project demonstrates the application of the **ARIMA (AutoRegressive Integrated Moving Average)** model to forecast sales trends using time series data and is built in Python.
 
-The goal of this project is to predict future sales values based on historical data, offering insights into time series forecasting techniques that can be applied to domains like climate analysis, financial modeling, and more. It’s a great example of my analytical mindset and passion for leveraging data to uncover actionable insights—skills I’m excited to bring to a data science or machine learning role!
+## Skills Demonstrated
+- Proficiency in time series analysis, statistical modeling, and data visualization using libraries like Pandas, NumPy, and Statsmodels.
+- Expertise in identifying patterns such as trends and seasonality in data.
+- Skills in evaluating and tuning statistical models for optimal performance.
+- Clear communication of technical findings.
+- Development of scalable, reproducible solutions in Python.
 
+- **Proficiency** in **time series analysis**, **statistical modeling**, and **data visualization** using libraries like **Pandas**, **NumPy**, and **Statsmodels**.
+- **Expertise** in identifying patterns such as **trends** and **seasonality** in data.
+- **Skills** in **evaluating** and **tuning** **statistical models** for optimal **performance**.
+- Clear **communication** of **technical findings**.
+- **Development** of **scalable**, **reproducible solutions** in **Python**.
+
+It’s a great example of my analytical mindset and passion for leveraging data to uncover actionable insights—skills I’m excited to bring to a data science or machine learning role!
 
 ---
 
@@ -63,12 +75,6 @@ temperature-forecasting-arima/
 
 4. **Explore the Code**:
 Follow the notebook for a detailed walkthrough of data preparation, model building, and forecasting.
-
-## Key Learnings
-- Gained hands-on experience with time series forecasting and the ARIMA model.
-- Developed skills in identifying patterns like trend and seasonality in data.
-- Strengthened proficiency in Python for data analysis and visualization.
-- Learned to evaluate and tune statistical models for optimal performance.
 
 ## Results
 The ARIMA model successfully forecasted sales values with reasonable accuracy, as validated by RMSE and visual comparison of predicted vs. actual data.

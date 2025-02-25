@@ -44,7 +44,7 @@ temperature-forecasting-arima/
 │   └── forecast.py
 ├── README.md              # Project documentation (you're reading it!)
 ├── requirements.txt       # List of dependencies
-└── License.txt            # MIT License
+└── License.md             # MIT License
 ```
 
 ---

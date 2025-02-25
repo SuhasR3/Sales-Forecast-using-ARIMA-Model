@@ -28,7 +28,7 @@ The goal of this project is to predict future sales values based on historical d
 ---
 
 ## Project Structure
-
+```
 temperature-forecasting-arima/
 │
 ├── data/                  # Dataset used for forecasting (e.g., temperature data)
@@ -38,7 +38,7 @@ temperature-forecasting-arima/
 │   └── forecast.py
 ├── README.md              # Project documentation (you're reading it!)
 └── requirements.txt       # List of dependencies
-
+```
 
 ---
 
